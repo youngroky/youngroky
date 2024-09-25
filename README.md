@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 -->
 ![githubLogo](https://github.com/user-attachments/assets/9fb6ae25-d795-434e-83f6-f226b61c3161)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={youngroky}&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngroky&show_icons=true&theme=transparent)
