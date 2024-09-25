@@ -1,8 +1,5 @@
-## Hi there 👋
-
 <!--
 **youngroky/youngroky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![githubLogo](https://github.com/user-attachments/assets/9fb6ae25-d795-434e-83f6-f226b61c3161)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={youngroky}&show_icons=true&theme=transparent)
