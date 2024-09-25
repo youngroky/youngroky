@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![제목을-입력해주세요_-001 (2)](https://github.com/user-attachments/assets/4e41adef-fd25-4abd-b232-5f9029d4bbf5)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngroky&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngroky)
+
