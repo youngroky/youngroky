@@ -11,7 +11,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngroky)
 
 ## 🌲 Experience
-- SQLD 국가공인 자격증 취득 (2024.09)
+- **SQLD** 국가공인 자격증 취득 (2024.09)
+- 2024 **SCON**(Soongsil Programming Contest) 참가 (2024.05)
 
 ## 🖥️ Platforms & Languages
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -42,7 +43,9 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oo2456)
 
 ## :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youngro886@gmail.com)](mailto:youngrok886@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:oo2456@naver.com)](mailto:oo2456@naver.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:youngrok886@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white)](oo2456@naver.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@oh2456/posts)
+[![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)](https://almondine-can-437.notion.site/Rok-Developer-10ab2802678780aa8547d71cdfc737df)
 
 
