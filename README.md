@@ -48,4 +48,7 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@oh2456/posts)
 [![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)](https://almondine-can-437.notion.site/Rok-Developer-10ab2802678780aa8547d71cdfc737df)
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youngrok886@gmail.com)](mailto:youngrok886@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:oo2456@naver.com)](mailto:oo2456@naver.com)
+
 
