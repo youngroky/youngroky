@@ -44,7 +44,7 @@
 
 ## :mailbox_with_mail: Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:youngrok886@gmail.com)
-[![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white)](oo2456@naver.com)
+[![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white)](mailto:oo2456@naver.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@oh2456/posts)
 [![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)](https://almondine-can-437.notion.site/Rok-Developer-10ab2802678780aa8547d71cdfc737df)
 
