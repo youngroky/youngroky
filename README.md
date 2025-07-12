@@ -14,7 +14,9 @@
 - **SQLD** 국가공인 자격증 취득 (2024.09)
 - 2024 **SCON**(Soongsil Programming Contest) 참가 (2024.05)
 - 2024 **NH 투자증권 빅데이터** 경진대회 참가 (2024.10)
-- **정보처리기사** 실기 합격 (2025.02)
+- **정보처리기사** 필기 합격 (2025.02)
+- **정보처리기사** 실기 합격 (2025.06)
+
 
 ## 🖥️ Platforms & Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
